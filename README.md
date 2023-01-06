@@ -11,8 +11,6 @@
   <a href="https://stackoverflow.com/users/15265957/mehwish-sameer">
     <img src="https://img.shields.io/badge/StackOverflow-red?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow Badge"/>
   </a>
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=MehwishSameer&style=flat-square&color=blue" alt=""/>
 </div>
 Hi there 👋
 ---
@@ -54,6 +52,4 @@ I am an Ungraduate CS student <img src="https://media.giphy.com/media/WUlplcMpOC
 
 ---
 
-### :fire: My Stats :
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MehwishSameer)
