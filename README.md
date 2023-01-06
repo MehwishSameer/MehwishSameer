@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/StackOverflow-red?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow Badge"/>
   </a>
   <br/>
-  Hi there 👋
+  <h1>Hi there 👋</h1>
 </div>
 
 <div align="center">
