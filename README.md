@@ -22,7 +22,7 @@
 ---
 
 ### :woman_technologist: About Me :
-I am an Ungraduate CS student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan.
+I am an Ungraduate CS student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 - :seedling: Exploring Machine learning.
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and answer questions on StackOverflow.
