@@ -5,7 +5,7 @@
   <img src="https://media.giphy.com/media/qT3NpahR7tGnOqqjng/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
-  <a href="mehwishsameer4@gmail.com">
+  <a href="https://mail.google.com/mail/u/0/#inbox?compose=GFrJzlcsHMgZRnJGhRwsTwVJgGtbjknXldhCNzdJfSRxwzqhqRKsvxFlksckDSCxWnWV">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Gmail Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/mehwish-sameer-4186b916b/">
