@@ -11,8 +11,9 @@
   <a href="https://stackoverflow.com/users/15265957/mehwish-sameer">
     <img src="https://img.shields.io/badge/StackOverflow-red?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow Badge"/>
   </a>
+  Hi there 👋
 </div>
-Hi there 👋
+
 ---
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
