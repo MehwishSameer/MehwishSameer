@@ -27,7 +27,7 @@ I am an Undergraduate CS student <img src="https://media.giphy.com/media/WUlplcM
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and answer questions on StackOverflow.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Mehwish-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mehwish-sameer-4186b916b/)
+- :mailbox:How to reach me: mehwishsameer4@gmail.com
 
 ---
 
