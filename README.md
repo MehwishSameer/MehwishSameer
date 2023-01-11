@@ -11,6 +11,9 @@
   <a href="https://stackoverflow.com/users/15265957/mehwish-sameer">
     <img src="https://img.shields.io/badge/StackOverflow-red?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow Badge"/>
   </a>
+  <a href="https://leetcode.com/mehwishsameer4/">
+    <img src="https://img.shields.io/badge/LeetCode-red?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
+  </a>
   <br/>
   <h1>Hi there 👋</h1>
 </div>
