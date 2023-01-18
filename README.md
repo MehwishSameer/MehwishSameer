@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/LeetCode-red?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
   </a>
   <br/>
-  ![](https://komarev.com/ghpvc/?MehwishSameer=your-github-MehwishSameer)
+  ![](https://komarev.com/ghpvc/?username=MehwishSameer)
   <h1>Hi there 👋</h1>
 </div>
 
