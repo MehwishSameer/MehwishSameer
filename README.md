@@ -57,5 +57,4 @@ I am an Undergraduate CS student <img src="https://media.giphy.com/media/WUlplcM
 
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MehwishSameer&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-![Mehwish Sameer](https://komarev.com/ghpvc/?username=MehwishSameer)
 ![MehwishSameer's GitHub stats](https://github-readme-stats.vercel.app/api?username=MehwishSameer&show_icons=true&theme=gruvbox)
