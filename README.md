@@ -23,18 +23,11 @@
 ---
 
 ### 👩‍💻 About Me  
-I’m a **Data Scientist & AI Researcher** passionate about **computer vision, generative models, and spatiotemporal reasoning**.  
-- 🔭 Currently building **face recognition systems with generative AI** & **real-time object detection pipelines**.  
-- 🧠 Exploring **graph-based learning**, **YOLOv8** object detection, and **Transformer-based CV architectures**.  
-- 📚 Interests: Bias-aware AI, adaptive vision systems, multimodal reasoning, and secure intelligent systems.  
+I’m a **Data Scientist** passionate about **computer vision, generative models, and spatiotemporal reasoning**.  
+- 🔭 Developed **face recognition system with generative AI** as FYP thesis.  
+- 🧠 Exploring ways to bridge vision-based gesture recognition with language models, enabling richer, more natural interactions between humans and machines.  
+- 📚 Interests: Adaptive vision systems, multimodal reasoning, and secure intelligent systems.  
 - 📫 Reach me at **mehwishsameer4@gmail.com**
-
----
-
-### 🏆 Highlight Projects  
-- **AttendanceEye** → Face Recognition System using **InterfaceGAN, AttributeGAN**, and **YOLOv8** (F1-score 98.38%) for robust identity verification.  
-- **OCR & Document Search Web App** → Deployed on Hugging Face using **Qwen-2VL** for multilingual (Hindi/English) text extraction.  
-- **CV-JD Matching System** → NLP-powered resume parsing & ranking (97% accuracy).  
 
 ---
 
@@ -45,7 +38,7 @@ I’m a **Data Scientist & AI Researcher** passionate about **computer vision, g
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="PyTorch" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="OpenCV" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/67/Yolo_logo.png" title="YOLO" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/AlexeyAB/darknet/master/logo/yolo_logo.png" title="YOLO" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" width="40" height="40"/>&nbsp;
