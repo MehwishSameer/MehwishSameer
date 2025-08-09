@@ -25,8 +25,8 @@
 ---
 
 ### :woman_technologist: About Me :
-I am an Undergraduate CS student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
-- :seedling: Exploring Machine learning.
+I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+- :seedling: Actively working on computer vision and AI projects.
 
 - :mailbox:How to reach me: mehwishsameer4@gmail.com
 
